@@ -1,9 +1,0 @@
-2024-06-03T23:06:02.015Z - Método: GET, URL: /, Payload: {}
-2024-06-03T23:06:02.103Z - Método: GET, URL: /favicon.ico, Payload: {}
-2024-06-03T23:09:00.693Z - Método: GET, URL: /front-blog, Payload: {}
-2024-06-03T23:09:09.188Z - Método: GET, URL: /front-blog/index.html, Payload: {}
-2024-06-03T23:10:14.546Z - Método: GET, URL: /, Payload: {}
-2024-06-03T23:12:58.978Z - Método: GET, URL: /, Payload: {}
-2024-06-03T23:21:54.058Z - Método: GET, URL: /posts, Payload: {}
-2024-06-03T23:22:17.918Z - Método: GET, URL: /front-blog, Payload: {}
-2024-06-03T23:22:28.872Z - Método: GET, URL: /front-blog/index.html, Payload: {}
