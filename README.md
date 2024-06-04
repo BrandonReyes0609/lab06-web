@@ -31,3 +31,5 @@ docker rm brandon-db
 3. Elimina la imagen:
 
 docker rmi blog-brandon-db
+
+        "start": "node src/main.js",
